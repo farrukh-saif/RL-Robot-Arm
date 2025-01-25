@@ -11,17 +11,14 @@ Read the full story: **[Teaching Robots to Reach: A Reinforcement Learning Journ
 This project combines:
 - 🏗️ Custom robotic arm environment built with **Gymnasium**
 - 🧠 Deep reinforcement learning implemented via **Stable Baselines3**
-- 📈 Training visualization with **TensorBoard**
 - 🎮 Human-playable interface using **PyGame**
 
 ## Features
 
 - 🏭 Custom 2D robotic arm environment with:
-  - Realistic joint physics
+  - Joint motors
   - Dynamic target generation
-  - Multiple observation modes
-- 🤖 PPO implementation for precise control
-- 📊 Training progress visualization
+- 🤖 PPO for precise control learning
 - ✍️ **[Blog post](https://syedfarrukhsaif.com/blog)** documenting the entire journey
 
 ## Usage
