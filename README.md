@@ -45,5 +45,5 @@ MIT License - See [LICENSE](LICENSE) for details.
 ## Acknowledgments
 
 - Farama Foundation for [Gymnasium](https://gymnasium.farama.org/)
-- Stable Baselines3 team for their RL implementations
+- [Stable Baselines3](https://stable-baselines3.readthedocs.io/en/master/) team for their RL implementations
 - All the coffee that powered this project ☕
