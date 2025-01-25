@@ -1,6 +1,8 @@
 # 🤖 AI-Powered Robotic Arm Control 🦾
 
-A reinforcement learning project where AI agents learn to control a robotic arm in custom environments. Read the full story: **[Teaching Robots to Reach: A Reinforcement Learning Journey](https://syedfarrukhsaif.com/blog)**.
+A reinforcement learning project where AI agents learn to control a robotic arm in custom environments.
+
+Read the full story: **[Teaching Robots to Reach: A Reinforcement Learning Journey](https://syedfarrukhsaif.com/blog)**.
 
 <img src="ai-playing.gif" width="400" alt="AI-controlled robotic arm reaching for targets">
 
