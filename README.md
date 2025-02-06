@@ -2,7 +2,7 @@
 
 A reinforcement learning project where AI agents learn to control a robotic arm. 
 
-Read the full story: **[Teaching Robots to Reach: A Reinforcement Learning Journey](https://syedfarrukhsaif.com/blog)**.
+Read the full story: **[Teaching Robots to Reach: A Reinforcement Learning Journey](https://syedfarrukhsaif.com/blog/training-a-robotic-arm-to-move-training-ai-in-a-custom-world)**.
 
 <img src="ai-playing.gif" width="400" alt="AI-controlled robotic arm reaching for targets">
 
